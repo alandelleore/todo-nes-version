@@ -1,5 +1,7 @@
-# todo-nes-version
+# Todo NES 
 Todo list + Vite + TypeScript + Nes CSS + Cypress
+
+site: https://todones1985.netlify.app/
 
 #View
 ![notasnes](https://user-images.githubusercontent.com/84545725/195232418-288dbeef-f9cb-419b-a73e-78bc6d167667.jpg)
